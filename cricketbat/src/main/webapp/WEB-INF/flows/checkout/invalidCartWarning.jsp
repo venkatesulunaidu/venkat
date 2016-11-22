@@ -34,7 +34,7 @@ font-size: 16px;
         </section>
 
         <section class="container">
-            <p><a href="<spring:url value="/getAllWatch" />" class="btn btn-default">Product</a></p>
+            <p><a href="<spring:url value="/getAllbat" />" class="btn btn-default">Bats</a></p>
         </section>
 </div></div>
 <%@ include file="/WEB-INF/views/footer.jsp" %>
